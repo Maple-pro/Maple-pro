@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently studying on Wuhan University.
+- 📫 [Email](mailto:2018302110421@whu.edu.cn) to reach me!
+- ⚡ [Sharing Blog](http://maples31.com)
 
 <!--
 **Maple-pro/Maple-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
