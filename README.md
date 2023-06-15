@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 [Personal Homepage](http://person.maples31.com)
 - 🔭 I’m currently studying on Wuhan University.
-- 📫 [Email](mailto:yangfeng@whu.edu.cn) to reach me!
+- 📫 [Email](mailto:fengy.maples+github@gmail.com) to reach me!
 - ⚡ [Sharing Blog](https://blog.maples31.com/blog/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maple-pro)](https://github.com/ryo-ma/github-profile-trophy)
